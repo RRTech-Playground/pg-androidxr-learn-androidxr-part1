@@ -35,6 +35,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "XR Fundamentals"
+rootProject.name = "pg-androidxr-learn-androidxr-part1"
 include(":app")
  
